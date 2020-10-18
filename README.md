@@ -15,3 +15,8 @@ First bot will give the options to select,if we select option one it will produc
 3.Block diagram:
 
 <img src='Block diagram image.jpg'>
+
+5.References:
+
+  .python.org
+  .pypi.org
