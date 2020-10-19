@@ -1,4 +1,4 @@
-Team mates:
+<h3>Team mates:</h3>
 
 1.Chinthalapudi Satya Rama Tulasi(18pa1a0533)
 
@@ -6,7 +6,7 @@ Team mates:
 
 3.Chilakala Bala Mahesh(19pa1a0534)
 
-<h1>1.Objective:</h1>
+<h2>1.Objective:</h2>
 
 The chatbot is designed for producing a one line jokes,phone number information and world wide and country wide covid cases information.
 
