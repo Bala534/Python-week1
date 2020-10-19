@@ -30,4 +30,4 @@ Click on the above link for the video.
   
   -https://pypi.org/
 
-I have used these references for the packages and libraries.
+We have used these references for the packages and libraries.
