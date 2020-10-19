@@ -4,6 +4,8 @@ Team mates:
 
 2.Chilakala Baby Navya(18pa1a0426)
 
+3.Chilakala Bala Mahesh(19pa1a0534)
+
 1.Objective:
 
 The chatbot is designed for producing a one line jokes,phone number information and world wide and country wide covid cases information.
@@ -18,6 +20,6 @@ First bot will give the options to select,if we select option one it will produc
 
 5.References:
 
-  .python.org
+  -python.org
   
-  .pypi.org
+  -pypi.org
