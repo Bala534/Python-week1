@@ -24,8 +24,8 @@ First bot will give the options to select,if we select option one it will produc
 
 <h2>5.References:</h2>
 
-  -python.org
+  -https://www.python.org/
   
-  -pypi.org
+  -https://pypi.org/
 
 I have used these references for the packages and libraries.
