@@ -6,7 +6,7 @@ Team mates:
 
 3.Chilakala Bala Mahesh(19pa1a0534)
 
-1.Objective:
+<h1>1.Objective:</h1>
 
 The chatbot is designed for producing a one line jokes,phone number information and world wide and country wide covid cases information.
 
@@ -23,3 +23,5 @@ First bot will give the options to select,if we select option one it will produc
   -python.org
   
   -pypi.org
+
+I have used these references for the packages and libraries.
